@@ -5,8 +5,8 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
   <a href="https://www.linkedin.com/in/ahimsarijalu/">
     <img align="center" src="https://img.shields.io/badge/-ahimsarijalu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahimsarijalu/">
   </a>
-  <a href="https://www.linkedin.com/in/ahimsarijalu/">
-    <img align="center" src="https://img.shields.io/badge/-ahimsarijalu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahimsarijalu/">
+  <a href="mailto:ahimsarijalu@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ahimsarijalu@gmail.com&logoColor=white">
   </a>
 </p>
 <p>
