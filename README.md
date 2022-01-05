@@ -6,7 +6,7 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
     <img align="center" src="https://img.shields.io/badge/-ahimsarijalu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahimsarijalu/">
   </a>
   <a href="mailto:ahimsarijalu@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=ahimsarijalu@gmail.com&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-ahimsarijalu@gmail.com-red?style=flat&logo=Gmail&logoColor=white&link=mailto:ahimsarijalu@gmail.com">
   </a>
 </p>
 <p>
