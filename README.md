@@ -7,10 +7,10 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
   </a>
 </p>
 <p>
-  <a href="https://github.com/ahimsarijalu/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api?username=ahimsarijalu&show_icons=true&count_private=true&theme=dark">
     <img height="150" length="500" align="center" src="https://github-readme-stats.vercel.app/api?username=ahimsarijalu&show_icons=true&count_private=true&theme=dark">
   </a>
-  <a href="https://github.com/ahimsarijalu/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahimsarijalu&layout=compact&theme=dark">
     <img height="150" lenght="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahimsarijalu&layout=compact&theme=dark">
   </a>
 </p>
