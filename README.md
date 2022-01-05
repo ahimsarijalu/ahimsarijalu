@@ -1,7 +1,5 @@
-### Hi there 👋
-
-### Hi, my name is Mas Kusumo Dibyo 👋
-I am student of a Bachelor of Computer Science. I want to be the best version of me, like building some programmes, making some nice websites, learning deeper about machine learning and even collecting some data. I'm interested in AI and machine learning, especially anything about data. With data we can get information, analysis, and create something that can be usefull. In my free time, I like to challenge myself and trying someting new.
+### Hi there, my name is Tsany Rijalu Ahimsa
+I'm currently a third-year undergraduate student majoring in Computer Science from Brawijaya University. I'm interested in Frontend of Web Development and UI/UX. Recently, I have been more interested in Mobile Development such as Native Android and Multi-Platform Framework like Flutter.
 
 <p>
   <a href="https://www.linkedin.com/in/ahimsarijalu/">
