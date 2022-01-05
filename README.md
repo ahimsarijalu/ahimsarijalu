@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tsany Rijalu Ahimsa
+### Hi there 👋, I'm Tsany Rijalu Ahimsa
 I'm currently a third-year undergraduate student majoring in Computer Science from Brawijaya University. I'm interested in Frontend of Web Development and UI/UX. Recently, I have been more interested in Mobile Development such as Native Android and Multi-Platform Framework like Flutter.
 
 <p>
