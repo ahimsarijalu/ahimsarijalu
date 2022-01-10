@@ -14,7 +14,7 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
   </a>
 <p/>
 
-### My Framework and language
+### My framework and language
 <p align="left">
   <a href="https://dart.dev/">
     <img align="left" alt="Dart" height="32" width="32" src="assets/dart.svg">
