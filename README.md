@@ -13,6 +13,19 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
     <img  alt="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
   </a>
 <p/>
+
+### My Tools and language
+<p align="left">
+  <a href="https://flutter.dev/">
+    <img align="left" alt="Flutter" height="32" width="32" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/flutter.png">
+  </a>
+  <a href="https://www.linkedin.com/in/ahimsarijalu">
+    <img align="left" alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+  </a>
+  <a href="https://open.spotify.com/user/mantapbre?si=d1479bb109b44b05">
+    <img  alt="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
+  </a>
+<p/>
 <hr/>
 
 <p><a align="left" > <img src="https://github-readme-stats.vercel.app/api?username=ahimsarijalu&show_icons=true&layout=compact&theme=gotham" alt="ahimsarijalu" /></p>
