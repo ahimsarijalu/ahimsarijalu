@@ -4,25 +4,35 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
 ### You can find me on
 <p align="left">
   <a href="https://github.com/ahimsarijalu">
-    <img align="left" alt="GitHub" height="32" width="32" style="filter: invert(1);"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
+    <img align="left" alt="GitHub" height="32" width="32" src="assets/github.svg">
   </a>
   <a href="https://www.linkedin.com/in/ahimsarijalu">
-    <img align="left" alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+    <img align="left" alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg">
   </a>
   <a href="https://open.spotify.com/user/mantapbre?si=d1479bb109b44b05">
-    <img  alt="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
+    <img  alt="Spotify" height="32" width="32" src="assets/spotify.svg">
   </a>
 <p/>
 
-### My Tools and language
+### My language
+<p align="left">
+  <a href="https://dart.dev/">
+    <img align="left" alt="Dart" height="32" width="32" src="assets/dart.svg">
+  </a>
+  <a href="https://kotlinlang.org/">
+    <img alt="Kotlin" height="32" width="32" src="assets/kotlin.svg">
+  </a>
+<p/>
+
+### My tools
 <p align="left">
   <a href="https://flutter.dev/">
-    <img align="left" alt="Flutter" height="32" width="32" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/flutter.png">
+    <img align="left" alt="Flutter" height="32" width="32" src="assets/flutter.svg">
   </a>
-  <a href="https://www.linkedin.com/in/ahimsarijalu">
+  <a href="">
     <img align="left" alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
   </a>
-  <a href="https://open.spotify.com/user/mantapbre?si=d1479bb109b44b05">
+  <a href="">
     <img  alt="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
   </a>
 <p/>
