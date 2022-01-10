@@ -4,7 +4,7 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
 ### You can find me on
 <p align="left">
   <a href="https://github.com/ahimsarijalu">
-    <img align="left" alt="GitHub" height="32" width="32" src="assets/github.svg">
+    <img align="left" alt="GitHub" height="32" width="32" src="assets/github.png">
   </a>
   <a href="https://www.linkedin.com/in/ahimsarijalu">
     <img align="left" alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg">
@@ -20,7 +20,10 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
     <img align="left" alt="Dart" height="32" width="32" src="assets/dart.svg">
   </a>
   <a href="https://kotlinlang.org/">
-    <img alt="Kotlin" height="32" width="32" src="assets/kotlin.svg">
+    <img align="left" alt="Kotlin" height="32" width="32" src="assets/kotlin.svg">
+  </a>
+  <a href="https://www.java.com/">
+    <img alt="Java" height="32" width="32" src="assets/javan.svg">
   </a>
 <p/>
 
