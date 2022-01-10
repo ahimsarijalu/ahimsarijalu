@@ -3,32 +3,32 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
 
 ### You can find me on
 <p align="left">
-  <a href="https://github.com/ahimsarijalu">
-    <img align="left" alt="GitHub" height="32" width="32" src="assets/github.png">
+  <a href="https://github.com/ahimsarijalu" title="My Github Profile">
+    <img align="left" alt="My Github Profile" height="32" width="32" src="assets/github.png">
   </a>
-  <a href="https://www.linkedin.com/in/ahimsarijalu">
-    <img align="left" alt="LinkedIn" height="32" width="32" src="assets/linkedin.svg">
+  <a href="https://www.linkedin.com/in/ahimsarijalu" title="My Linkedinr">
+    <img align="left" alt="My Linkedin" height="32" width="32" src="assets/linkedin.svg">
   </a>
-  <a href="https://open.spotify.com/user/mantapbre?si=d1479bb109b44b05">
-    <img  alt="Spotify" height="32" width="32" src="assets/spotify.svg">
+  <a href="https://open.spotify.com/user/mantapbre?si=d1479bb109b44b05" title="My Spotify">
+    <img  alt="My Spotify" height="32" width="32" src="assets/spotify.svg">
   </a>
 <p/>
 
 ### My framework and language
 <p align="left">
-  <a href="https://dart.dev/">
+  <a href="https://dart.dev/" title="Dart">
     <img align="left" alt="Dart" height="32" width="32" src="assets/dart.svg">
   </a>
-  <a href="https://kotlinlang.org/">
+  <a href="https://kotlinlang.org/" title="Kotlin">
     <img align="left" alt="Kotlin" height="32" width="32" src="assets/kotlin.svg">
   </a>
-  <a href="https://www.java.com/">
+  <a href="https://www.java.com/" title="Java">
     <img align="left" alt="Java" height="32" width="32" src="assets/java.svg">
   </a>
-  <a href="https://flutter.dev/">
+  <a href="https://flutter.dev/" title="Flutter">
     <img align="left" alt="Flutter" height="32" width="32" src="assets/flutter.svg">
   </a>
-  <a href="https://developer.android.com/studio">
+  <a href="https://developer.android.com/studio" title="Android Studio">
     <img alt="Android Studio" height="32" width="32" src="assets/androidstudio.svg">
   </a>
 <p/>
