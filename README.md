@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tsany Rijalu Ahimsa
-I'm currently a third-year undergraduate student majoring in Computer Science from Brawijaya University. I'm interested in Frontend of Web Development and UI/UX. Recently, I have been more interested in Mobile Development such as Native Android and Multi-Platform Framework like Flutter.
+I'm currently a third-year undergraduate student majoring in Computer Science from Brawijaya University. I'm interested in Frontend Development. Recently, I have been more interested in Mobile Development such as Native Android and Multi-Platform Framework like Flutter.
 
 ### You can find me on
 <p align="left">
