@@ -1,15 +1,19 @@
-### Hi there 👋, I'm Tsany Rijalu Ahimsa
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tsany Rijalu Ahimsa
 I'm currently a third-year undergraduate student majoring in Computer Science from Brawijaya University. I'm interested in Frontend of Web Development and UI/UX. Recently, I have been more interested in Mobile Development such as Native Android and Multi-Platform Framework like Flutter.
 
-<p>
-  <a href="https://www.linkedin.com/in/ahimsarijalu/">
-    <img align="center" src="https://img.shields.io/badge/-ahimsarijalu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahimsarijalu/">
+### You can find me on
+<p align="left">
+  <a href="https://github.com/ahimsarijalu">
+    <img align="left" alt="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
   </a>
-</p>
-<hr>
-<a href="https://github-readme-stats.vercel.app/api?username=ahimsarijalu&show_icons=true&count_private=true&theme=dark">
-  <img height="150" length="500" align="center" src="https://github-readme-stats.vercel.app/api?username=ahimsarijalu&show_icons=true&count_private=true&theme=dark">
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahimsarijalu&layout=compact&theme=dark">
-  <img height="150" lenght="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahimsarijalu&layout=compact&theme=dark">
-</a>
+  <a href="https://www.linkedin.com/in/ahimsarijalu">
+    <img align="left" alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
+  </a>
+  <a href="https://open.spotify.com/user/mantapbre?si=d1479bb109b44b05">
+    <img  alt="Spotify" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg">
+  </a>
+<p/>
+<hr/>
+
+<p><a align="left" > <img src="https://github-readme-stats.vercel.app/api?username=ahimsarijalu&show_icons=true&layout=compact&theme=gotham" alt="ahimsarijalu" /></p>
+<p><a align="left" > <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahimsarijalu&layout=compact&theme=gotham" alt="ahimsarijalu" /></p>
