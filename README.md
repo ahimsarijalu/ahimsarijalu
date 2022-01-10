@@ -4,7 +4,7 @@ I'm currently a third-year undergraduate student majoring in Computer Science fr
 ### You can find me on
 <p align="left">
   <a href="https://github.com/ahimsarijalu">
-    <img align="left" alt="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
+    <img align="left" alt="GitHub" height="32" width="32" style="filter: invert(1);"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg">
   </a>
   <a href="https://www.linkedin.com/in/ahimsarijalu">
     <img align="left" alt="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
