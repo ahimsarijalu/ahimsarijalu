@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Tsany Rijalu Ahimsa
-Final year undergraduate student majoring in Computer Science from Brawijaya University. Interested in Frontend Development. Also interested in Mobile Development such as Native Android and Multi-Platform Framework like Flutter.
+I graduated from Brawijaya University with a major in Computer Science. I am a versatile and dedicated individual, always eager to expand my knowledge and skills in both Mobile Development, particularly in Android Native, and Backend Development. Currently, I work as a Junior Middleware Developer, where I develop bill payment solutions using webMethods. I have experience in the banking and telecommunications industries and am motivated to contribute to the ever-evolving world of technology while staying up to date with the latest advancements.
 
 ### You can find me on
 <p align="left">
