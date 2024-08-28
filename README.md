@@ -16,20 +16,20 @@ I graduated from Brawijaya University with a major in Computer Science. I am a v
 
 ### Framework and programming language that i use 
 <p align="left">
-  <a href="https://dart.dev/" title="Dart">
-    <img align="left" alt="Dart" height="32" width="32" src="assets/dart.svg">
-  </a>
   <a href="https://kotlinlang.org/" title="Kotlin">
     <img align="left" alt="Kotlin" height="32" width="32" src="assets/kotlin.svg">
   </a>
   <a href="https://www.java.com/" title="Java">
     <img align="left" alt="Java" height="32" width="32" src="assets/java.svg">
   </a>
+  <a href="https://developer.android.com/studio" title="Android Studio">
+    <img alt="Android Studio" height="32" width="32" src="assets/androidstudio.svg">
+  </a>
   <a href="https://flutter.dev/" title="Flutter">
     <img align="left" alt="Flutter" height="32" width="32" src="assets/flutter.svg">
   </a>
-  <a href="https://developer.android.com/studio" title="Android Studio">
-    <img alt="Android Studio" height="32" width="32" src="assets/androidstudio.svg">
+  <a href="https://dart.dev/" title="Dart">
+    <img align="left" alt="Dart" height="32" width="32" src="assets/dart.svg">
   </a>
 <p/>
 
